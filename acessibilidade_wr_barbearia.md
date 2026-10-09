@@ -22,10 +22,6 @@ A **WR Barbearia** é uma landing page institucional para uma barbearia de Macei
 
 ---
 
-## ESTRUTURA DO PROJETO
-
-O projeto é um site estático, sem backend e sem banco de dados. Toda a página está em um único `index.html`, estilizada por um único CSS e com interações em um único arquivo JS.
-
 ### Organização de Pastas
 
 ```
@@ -309,7 +305,6 @@ O foco não deve passar por links invisíveis.
 ### ✓ Imagens e mídia
 - Todas as imagens com `alt`
 - Mapa com `title`
-- Logotipo carregando (conferir `.png` x `.jpg`)
 
 ### ⚠ Contraste
 - Texto principal > 4.5:1
@@ -348,7 +343,6 @@ O foco não deve passar por links invisíveis.
 ## PONTOS PENDENTES DO PROJETO
 
 - Receber do cliente as fotos finais e atualizar os `alt` e legendas
-- Confirmar a extensão do logotipo (`logo.png` ou `logo.jpg`)
 - Informar os horários de funcionamento (hoje a página orienta consultar pelo WhatsApp)
 - Remover da página o aviso "As fotos finais serão adicionadas pelo cliente", que é uma nota interna
 
