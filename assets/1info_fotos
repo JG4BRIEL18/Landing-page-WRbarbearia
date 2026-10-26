@@ -1,5 +1,4 @@
 As fotos da landing page. 
-OBS: Futuramente terá fotos fornecidas pelo cliente
 
 assets/
     ├── logo.png
@@ -9,3 +8,8 @@ assets/
     ├── corte3.jpg
     ├── corte4.jpg
     └── corte5.jpg
+
+corte1: Tape fade 
+corte2: Americano com Freestyle
+corte3: Degradê com Freestyle
+corte4: Degradê navalhado com Freestyle
